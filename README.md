@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhia124)](https://github.com/ryo-ma/github-profile-trophy)
 # Historian Hysteria
 
 A small Python project with solutions to coding puzzle challenges. Day 1 focuses on "Historian Hysteria", with additional days included.
